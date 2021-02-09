@@ -1,6 +1,6 @@
 # Tara Cottingham
 # Course: CS151, Dr. Simari
-# Date: Feb 9, 2020
+# Date: Feb 10, 2020
 # Programming Assignment #1
 # Program inputs: length in feet, width in feet, height in feet
 # Program outputs: total area to be painted (in square feet), amount of paint and primer (in gallons)
