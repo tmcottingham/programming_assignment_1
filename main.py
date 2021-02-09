@@ -10,16 +10,16 @@
 print('This program will calculate the total area to be painted (in square feet) and determine the amount of paint and'
       'primer (in gallons) needed')
 
-# ask user for length (in feet)
-length = input('Please enter the length (in feet): ')
+# ask user for length of room (in feet)
+length = input('Please enter the length of the room (in feet): ')
 length = int(length)
 
-# ask user for width (in feet)
-width = input('Please enter the width (in feet): ')
+# ask user for width of room (in feet)
+width = input('Please enter the width of the room (in feet): ')
 width = int(width)
 
-# ask user for height (in feet)
-height = input('Please enter the height (in feet): ')
+# ask user for height of room (in feet)
+height = input('Please enter the height of the room (in feet): ')
 height = int(height)
 
 # measure total distance of room
