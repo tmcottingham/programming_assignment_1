@@ -3,7 +3,8 @@
 # Date: Feb 10, 2020
 # Programming Assignment #1
 # Program inputs: length in feet, width in feet, height in feet
-# Program outputs: total area to be painted (in square feet), amount of paint and primer (in gallons)
+# Program outputs: total area to be painted (in square feet), amount of paint (in gallons),
+# amount of primer (in gallons)
 
 # Program purpose
 print('This program will calculate the total area to be painted (in square feet) and determine the amount of paint and'
