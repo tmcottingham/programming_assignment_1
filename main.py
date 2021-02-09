@@ -43,7 +43,7 @@ gallons_paint = overall_wall_area/350
 print('The amount of paint (in gallons) needed is: ', gallons_paint)
 
 # output amount of primer (in gallons)
-gallons_primer = overall_wall_area/250
+gallons_primer = overall_wall_area/200
 print('The amount of primer (in gallons) needed is: ', gallons_primer)
 
 # thank the user for using the program
